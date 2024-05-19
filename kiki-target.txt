@@ -1,0 +1,3 @@
+Target Bulan Mei
+- Memahami tentang Version Control System (VCS)
+- Mengimplementasikan VCS pada setiap file yang digunakan
