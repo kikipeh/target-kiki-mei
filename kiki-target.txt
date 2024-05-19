@@ -1,3 +1,5 @@
 Target Bulan Mei
 - Memahami tentang Version Control System (VCS)
 - Mengimplementasikan VCS pada setiap file yang digunakan
+- Mengimplementasikan Fungsi rekursif C++ setiap membuat kodingan
+- Memahami konsep pointer lebih lanjut
